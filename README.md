@@ -5,13 +5,6 @@ Discover our **animated chair shopping card**, designed to provide a seamless an
 
 This project leverages **JavaScript** for smooth animations and **CSS** and **HTML** for the design and layout.
 
-
-## 🌐 **Live Website**
-
-Visit the website here: [Fin Nifty Trader](https://anandraj3551.github.io/Modern-Chair/)  
-
-**Check it out and enjoy customizing your perfect chair!** 🪑✨
-
 ### ⚙️ **Technologies Used**
 - **JavaScript** for interactive animations and real-time updates
 - **CSS** for responsive design and animations
